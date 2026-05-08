@@ -1,0 +1,16 @@
+packages:
+  "framer-motion": "Smooth entry animations for the terminal log and UI states"
+  "date-fns": "Formatting log timestamps nicely"
+  "clsx": "Utility for constructing className strings conditionally"
+  "tailwind-merge": "Utility for merging tailwind classes without style conflicts"
+  "@radix-ui/react-slot": "Required for accessible components"
+
+images:
+  - path: "artifacts/websnap/public/images/bg-glow.png"
+    description: "A very subtle, abstract, dark mesh gradient background with deep indigo and charcoal tones, minimalistic and professional."
+    aspect_ratio: "16:9"
+
+notes:
+  - Using generated Orval hooks from @workspace/api-client-react
+  - API endpoints follow the OpenAPI spec defined in lib/api-spec/openapi.yaml
+  - The UI relies heavily on polling GET /api/jobs/:id to simulate real-time terminal output
