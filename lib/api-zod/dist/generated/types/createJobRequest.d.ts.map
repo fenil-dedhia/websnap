@@ -1,0 +1,1 @@
+{"version":3,"file":"createJobRequest.d.ts","sourceRoot":"","sources":["../../../src/generated/types/createJobRequest.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AACH,OAAO,KAAK,EAAE,oBAAoB,EAAE,MAAM,wBAAwB,CAAC;AAEnE,MAAM,WAAW,gBAAgB;IAC/B,4BAA4B;IAC5B,GAAG,EAAE,MAAM,CAAC;IACZ,6DAA6D;IAC7D,IAAI,CAAC,EAAE,oBAAoB,CAAC;CAC7B"}
