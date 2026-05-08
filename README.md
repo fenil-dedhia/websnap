@@ -8,14 +8,14 @@ WebSnap has two modes. **Full Site Capture** takes a starting URL, finds every s
 
 Jobs are capped at 50 URLs per crawl to keep runs predictable. WebSnap is built for a desktop browser; mobile screens are not supported.
 
-![WebSnap screenshot 1](assets/websnap-landingpage.png)
-![WebSnap screenshot 2](assets/websnap-jobcomplete.png)
-
 ## How it works
 
 **Full Site Capture:** you submit a URL → WebSnap visits the page and discovers links to other pages on the same domain → it screenshots each page one at a time → the screenshots are zipped up → your browser downloads the ZIP.
 
 **Single Page Snapshot:** you submit a URL → WebSnap takes a full-page screenshot → your browser downloads the PNG.
+
+![WebSnap screenshot 1](assets/websnap-landingpage.png)
+![WebSnap screenshot 2](assets/websnap-jobcomplete.png)
 
 ## Tech stack
 
